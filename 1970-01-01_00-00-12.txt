@@ -1,0 +1,66 @@
+[1970-01-01 00:00:00] [0;32mI (609) MAIN: System Booted[0m
+[1970-01-01 00:00:01] [0;32mI (1619) pp: pp rom version: e7ae62f[0m
+[1970-01-01 00:00:01] [0;32mI (1639) net80211: net80211 rom version: e7ae62f[0m
+[1970-01-01 00:00:01] I (1649) wifi:[1970-01-01 00:00:01] wifi driver task: 3fcad6f4, prio:23, stack:6656, core=0[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1679) wifi:[1970-01-01 00:00:01] wifi firmware version: ccaebfa[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1699) wifi:[1970-01-01 00:00:01] wifi certification version: v7.0[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1709) wifi:[1970-01-01 00:00:01] config NVS flash: enabled[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1739) wifi:[1970-01-01 00:00:01] config nano formating: disabled[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1759) wifi:[1970-01-01 00:00:01] Init data frame dynamic rx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1769) wifi:[1970-01-01 00:00:01] Init static rx mgmt buffer num: 5[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1799) wifi:[1970-01-01 00:00:01] Init management short buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1819) wifi:[1970-01-01 00:00:01] Init dynamic tx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1829) wifi:[1970-01-01 00:00:01] Init static tx FG buffer num: 2[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1859) wifi:[1970-01-01 00:00:01] Init static rx buffer size: 1600[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1879) wifi:[1970-01-01 00:00:01] Init static rx buffer num: 10[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1889) wifi:[1970-01-01 00:00:01] Init dynamic rx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] [0;32mI (1919) wifi_init: rx ba win: 6[0m
+[1970-01-01 00:00:01] [0;32mI (1919) wifi_init: accept mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (1939) wifi_init: tcpip mbox: 32[0m
+[1970-01-01 00:00:01] [0;32mI (1939) wifi_init: udp mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (1949) wifi_init: tcp mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (1949) wifi_init: tcp tx win: 5760[0m
+[1970-01-01 00:00:01] [0;32mI (1969) wifi_init: tcp rx win: 5760[0m
+[1970-01-01 00:00:01] [0;32mI (1969) wifi_init: tcp mss: 1440[0m
+[1970-01-01 00:00:01] [0;32mI (1979) wifi_init: WiFi IRAM OP enabled[0m
+[1970-01-01 00:00:01] [0;32mI (1979) wifi_init: WiFi RX IRAM OP enabled[0m
+[1970-01-01 00:00:01] W (1999) wifi:[1970-01-01 00:00:01] Password length matches WPA2 standards, authmode threshold changes from OPEN to WPA2[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] [0;32mI (2009) phy_init: phy_version 680,a6008b2,Jun  4 2024,16:41:10[0m
+[1970-01-01 00:00:01] I (2069) wifi:[1970-01-01 00:00:01] mode : sta (98:a3:16:d1:20:f8)[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (2089) wifi:[1970-01-01 00:00:01] enable tsf[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] [0;32mI (2109) SCAN: Starting WiFi scan...[0m
+[1970-01-01 00:00:01] [0;32mI (2109) WIFI: STA Start[0m
+[1970-01-01 00:00:04] [0;32mI (4619) SCAN: SSID: Paras 2.4 | RSSI: -47 | Channel: 11[0m
+[1970-01-01 00:00:04] [0;32mI (4629) SCAN: SSID:  | RSSI: -47 | Channel: 11[0m
+[1970-01-01 00:00:04] [0;32mI (4629) SCAN: SSID: Atharv's A35 | RSSI: -54 | Channel: 6[0m
+[1970-01-01 00:00:04] [0;32mI (4639) SCAN: SSID: Airtel_Ad matters | RSSI: -58 | Channel: 1[0m
+[1970-01-01 00:00:04] [0;32mI (4639) SCAN: SSID: Paras 1 | RSSI: -65 | Channel: 2[0m
+[1970-01-01 00:00:04] [0;32mI (4659) SCAN: SSID: MERCUSYS_7CD8 | RSSI: -65 | Channel: 3[0m
+[1970-01-01 00:00:04] [0;32mI (4659) SCAN: SSID: AK_Group_2.4G | RSSI: -76 | Channel: 13[0m
+[1970-01-01 00:00:04] [0;32mI (4669) SCAN: SSID: DIRECT-58-HP Smart Tank 660-670 | RSSI: -87 | Channel: 13[0m
+[1970-01-01 00:00:04] [0;32mI (4669) SCAN: SSID: Priyanka1_2G | RSSI: -91 | Channel: 2[0m
+[1970-01-01 00:00:05] [0;32mI (6109) WIFI: Connecting to WiFi...[0m
+[1970-01-01 00:00:05] I (6129) wifi:[1970-01-01 00:00:05] new:<6,0>, old:<1,0>, ap:<255,255>, sta:<6,0>, prof:1, snd_ch_cfg:0x0[1970-01-01 00:00:05] 
+[1970-01-01 00:00:05] I (6149) wifi:[1970-01-01 00:00:05] state: init -> auth (0xb0)[1970-01-01 00:00:05] 
+[1970-01-01 00:00:05] I (6179) wifi:[1970-01-01 00:00:05] state: auth -> assoc (0x0)[1970-01-01 00:00:05] 
+[1970-01-01 00:00:05] I (6219) wifi:[1970-01-01 00:00:05] state: assoc -> run (0x10)[1970-01-01 00:00:05] 
+[1970-01-01 00:00:06] I (6389) wifi:[1970-01-01 00:00:06] connected with Atharv's A35, aid = 2, channel 6, BW20, bssid = 42:5e:c9:e9:58:3d[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6409) wifi:[1970-01-01 00:00:06] security: WPA2-PSK, phy: bgn, rssi: -51[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6429) wifi:[1970-01-01 00:00:06] pm start, type: 1
+[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6459) wifi:[1970-01-01 00:00:06] dp: 1, bi: 102400, li: 3, scale listen interval from 307200 us to 307200 us[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6469) wifi:[1970-01-01 00:00:06] set rx beacon pti, rx_bcn_pti: 0, bcn_timeout: 25000, mt_pti: 0, mt_time: 10000[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6489) wifi:[1970-01-01 00:00:06] dp: 2, bi: 102400, li: 4, scale listen interval from 307200 us to 409600 us[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6519) wifi:[1970-01-01 00:00:06] AP's beacon interval = 102400 us, DTIM period = 2[1970-01-01 00:00:06] 
+[1970-01-01 00:00:06] I (6529) wifi:[1970-01-01 00:00:06] <ba-add>idx:0 (ifx:0, 42:5e:c9:e9:58:3d), tid:0, ssn:0, winSize:64[1970-01-01 00:00:06] 
+[1970-01-01 00:00:07] [0;32mI (7539) esp_netif_handlers: sta ip: 10.156.235.58, mask: 255.255.255.0, gw: 10.156.235.31[0m
+[1970-01-01 00:00:07] [0;32mI (7549) WIFI: Got IP: 10.156.235.58[0m
+[1970-01-01 00:00:12] [0;32mI (12549) GITHUB_UPLOADER: Starting Base64 test...[0m
+[1970-01-01 00:00:12] [0;32mI (12559) TIME: Getting time via HTTP...[0m
+[1970-01-01 00:00:12] [0;31mE (12839) esp-tls-mbedtls: mbedtls_ssl_handshake returned -0x7280[0m
+[1970-01-01 00:00:12] [0;32mI (12849) esp-tls-mbedtls: Certificate verified.[0m
+[1970-01-01 00:00:12] [0;31mE (12849) esp-tls: Failed to open new connection[0m
+[1970-01-01 00:00:12] [0;31mE (12859) transport_base: Failed to open a new connection[0m
+[1970-01-01 00:00:12] [0;31mE (12869) HTTP_CLIENT: Connection failed, sock < 0[0m
+[1970-01-01 00:00:12] [0;32mI (12879) TIME: Response: [0m
+[1970-01-01 00:00:12] [0;32mI (12879) GITHUB_UPLOADER: Uploading as: 1970-01-01_00-00-12.txt[0m
