@@ -1,0 +1,68 @@
+[1970-01-01 00:00:00] [0;32mI (559) MAIN: System Booted[0m
+[1970-01-01 00:00:01] [0;32mI (1589) pp: pp rom version: e7ae62f[0m
+[1970-01-01 00:00:01] [0;32mI (1609) net80211: net80211 rom version: e7ae62f[0m
+[1970-01-01 00:00:01] I (1619) wifi:[1970-01-01 00:00:01] wifi driver task: 3fcad734, prio:23, stack:6656, core=0[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1689) wifi:[1970-01-01 00:00:01] wifi firmware version: ccaebfa[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1719) wifi:[1970-01-01 00:00:01] wifi certification version: v7.0[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1779) wifi:[1970-01-01 00:00:01] config NVS flash: enabled[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1799) wifi:[1970-01-01 00:00:01] config nano formating: disabled[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1859) wifi:[1970-01-01 00:00:01] Init data frame dynamic rx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1879) wifi:[1970-01-01 00:00:01] Init static rx mgmt buffer num: 5[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1909) wifi:[1970-01-01 00:00:01] Init management short buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1979) wifi:[1970-01-01 00:00:01] Init dynamic tx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (1989) wifi:[1970-01-01 00:00:01] Init static tx FG buffer num: 2[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (2059) wifi:[1970-01-01 00:00:01] Init static rx buffer size: 1600[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (2089) wifi:[1970-01-01 00:00:01] Init static rx buffer num: 10[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] I (2159) wifi:[1970-01-01 00:00:01] Init dynamic rx buffer num: 32[1970-01-01 00:00:01] 
+[1970-01-01 00:00:01] [0;32mI (2179) wifi_init: rx ba win: 6[0m
+[1970-01-01 00:00:01] [0;32mI (2189) wifi_init: accept mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (2189) wifi_init: tcpip mbox: 32[0m
+[1970-01-01 00:00:01] [0;32mI (2209) wifi_init: udp mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (2259) wifi_init: tcp mbox: 6[0m
+[1970-01-01 00:00:01] [0;32mI (2279) wifi_init: tcp tx win: 5760[0m
+[1970-01-01 00:00:01] [0;32mI (2279) wifi_init: tcp rx win: 5760[0m
+[1970-01-01 00:00:01] [0;32mI (2289) wifi_init: tcp mss: 1440[0m
+[1970-01-01 00:00:01] [0;32mI (2289) wifi_init: WiFi IRAM OP enabled[0m
+[1970-01-01 00:00:01] [0;32mI (2299) wifi_init: WiFi RX IRAM OP enabled[0m
+[1970-01-01 00:00:01] W (2309) wifi:[1970-01-01 00:00:02] Password length matches WPA2 standards, authmode threshold changes from OPEN to WPA2[1970-01-01 00:00:02] 
+[1970-01-01 00:00:02] [0;32mI (2379) phy_init: phy_version 680,a6008b2,Jun  4 2024,16:41:10[0m
+[1970-01-01 00:00:02] I (2429) wifi:[1970-01-01 00:00:02] mode : sta (98:a3:16:d1:20:f8)[1970-01-01 00:00:02] 
+[1970-01-01 00:00:02] I (2449) wifi:[1970-01-01 00:00:02] enable tsf[1970-01-01 00:00:02] 
+[1970-01-01 00:00:02] [0;32mI (2519) SCAN: Starting WiFi scan...[0m
+[1970-01-01 00:00:02] [0;32mI (2519) WIFI: STA Start[0m
+[1970-01-01 00:00:04] [0;32mI (5029) SCAN: SSID:  | RSSI: -48 | Channel: 11[0m
+[1970-01-01 00:00:04] [0;32mI (5039) SCAN: SSID: Paras 2.4 | RSSI: -50 | Channel: 11[0m
+[1970-01-01 00:00:04] [0;32mI (5039) SCAN: SSID: Airtel_Ad matters | RSSI: -56 | Channel: 1[0m
+[1970-01-01 00:00:04] [0;32mI (5089) SCAN: SSID: Paras 1 | RSSI: -62 | Channel: 2[0m
+[1970-01-01 00:00:04] [0;32mI (5109) SCAN: SSID: MERCUSYS_7CD8 | RSSI: -62 | Channel: 3[0m
+[1970-01-01 00:00:04] [0;32mI (5109) SCAN: SSID: Atharv's A35 | RSSI: -76 | Channel: 6[0m
+[1970-01-01 00:00:04] [0;32mI (5119) SCAN: SSID: AK_Group_2.4G | RSSI: -77 | Channel: 13[0m
+[1970-01-01 00:00:04] [0;32mI (5119) SCAN: SSID: Lord of the pings | RSSI: -89 | Channel: 1[0m
+[1970-01-01 00:00:04] [0;32mI (5139) SCAN: SSID: Lord of the pings_5G | RSSI: -91 | Channel: 1[0m
+[1970-01-01 00:00:04] [0;32mI (5189) SCAN: SSID: SSID-2.4G | RSSI: -91 | Channel: 3[0m
+[1970-01-01 00:00:04] [0;32mI (5209) SCAN: SSID: Raheja13_Airtel | RSSI: -92 | Channel: 1[0m
+[1970-01-01 00:00:04] [0;32mI (5209) SCAN: SSID: Chemistry | RSSI: -93 | Channel: 11[0m
+[1970-01-01 00:00:06] [0;32mI (6519) WIFI: Connecting to WiFi...[0m
+[1970-01-01 00:00:08] [0;31mE (8939) WIFI: Disconnected, reason=201[0m
+[1970-01-01 00:00:08] I (8959) wifi:[1970-01-01 00:00:08] new:<6,0>, old:<1,0>, ap:<255,255>, sta:<6,0>, prof:1, snd_ch_cfg:0x0[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9019) wifi:[1970-01-01 00:00:08] state: init -> auth (0xb0)[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9039) wifi:[1970-01-01 00:00:08] state: auth -> assoc (0x0)[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9139) wifi:[1970-01-01 00:00:08] state: assoc -> run (0x10)[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9179) wifi:[1970-01-01 00:00:08] connected with Atharv's A35, aid = 2, channel 6, BW20, bssid = 42:5e:c9:e9:58:3d[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9249) wifi:[1970-01-01 00:00:08] security: WPA2-PSK, phy: bgn, rssi: -75[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9279) wifi:[1970-01-01 00:00:08] pm start, type: 1
+[1970-01-01 00:00:08] 
+[1970-01-01 00:00:08] I (9299) wifi:[1970-01-01 00:00:09] dp: 1, bi: 102400, li: 3, scale listen interval from 307200 us to 307200 us[1970-01-01 00:00:09] 
+[1970-01-01 00:00:09] I (9369) wifi:[1970-01-01 00:00:09] set rx beacon pti, rx_bcn_pti: 0, bcn_timeout: 25000, mt_pti: 0, mt_time: 10000[1970-01-01 00:00:09] 
+[1970-01-01 00:00:09] I (9379) wifi:[1970-01-01 00:00:09] dp: 2, bi: 102400, li: 4, scale listen interval from 307200 us to 409600 us[1970-01-01 00:00:09] 
+[1970-01-01 00:00:09] I (9469) wifi:[1970-01-01 00:00:09] AP's beacon interval = 102400 us, DTIM period = 2[1970-01-01 00:00:09] 
+[1970-01-01 00:00:09] I (9479) wifi:[1970-01-01 00:00:09] <ba-add>idx:0 (ifx:0, 42:5e:c9:e9:58:3d), tid:0, ssn:0, winSize:64[1970-01-01 00:00:09] 
+[1970-01-01 00:00:10] [0;32mI (10489) esp_netif_handlers: sta ip: 10.156.235.58, mask: 255.255.255.0, gw: 10.156.235.31[0m
+[1970-01-01 00:00:10] [0;32mI (10499) WIFI: Got IP: 10.156.235.58[0m
+[1970-01-01 00:00:15] [0;32mI (15499) GITHUB_UPLOADER: Starting Base64 test...[0m
+[1970-01-01 00:00:15] [0;32mI (15509) TIME: Syncing time from GitHub...[0m
+[1970-01-01 00:00:16] [0;32mI (16599) esp-x509-crt-bundle: Certificate validated[0m
+[1970-01-01 00:00:17] [0;32mI (17419) TIME: Captured Date header: Fri, 20 Feb 2026 10:45:20 GMT[0m
+[2026-02-20 10:45:20] [0;32mI (17439) TIME: System time updated successfully[0m
+[2026-02-20 10:45:20] [0;32mI (17489) TIME: Year now = 2026[0m
+[2026-02-20 10:45:20] [0;32mI (17509) GITHUB_UPLOADER: Uploading as: 2026-02-20_10-45-20.txt[0m
